@@ -1,0 +1,29 @@
+{
+    "app_title": "PDF Processor - By Au",
+    "file_selection": "File Selection",
+    "no_file_selected": "No file selected\nDrag and drop a PDF file here or select a file.",
+    "select_file": "Select File",
+    "select_pdf": "Select PDF File",
+    "settings": "Settings",
+    "processing_mode": "Processing Mode",
+    "dpi_placeholder": "Enter DPI (e.g., 300)",
+    "process_pdf": "Process PDF",
+    "switch_language": "Switch to Chinese",
+    "no_pdf_error": "No PDF selected!",
+    "invalid_dpi_error": "Please enter a valid DPI value.",
+    "select_mode_error": "Please select a processing mode.",
+    "dpi_info_title": "DPI Information",
+    "dpi_info": "Higher DPI values result in clearer PDF images but larger file sizes.\nSuggested:\n- General use: 300 DPI\n- High quality: 600 DPI\n- For large files: try reducing DPI.",
+    "modes": [
+      "Select a processing mode",
+      "Invert Colors",
+      "Grayscale",
+      "Enhance Contrast",
+      "Crop White Borders",
+      "Clean Gray Dots"
+    ],
+    "selected_file": "Selected: {}",
+    "saved_file": "Saved: {}",
+    "processing_timer": "Processing time: {} seconds",
+    "processing_complete": "Processing complete!"
+  }

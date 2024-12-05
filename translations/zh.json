@@ -1,0 +1,30 @@
+{
+    "app_title": "PDF 处理器 - By Au",
+    "file_selection": "文件选择",
+    "no_file_selected": "未选择文件\n拖进一个PDF或从文件夹里选择。",
+    "select_file": "选择文件",
+    "select_pdf": "选择 PDF 文件",
+    "settings": "设置",
+    "processing_mode": "处理模式",
+    "dpi_placeholder": "输入 DPI（如 300）",
+    "process_pdf": "处理 PDF",
+    "switch_language": "切换到英文",
+    "no_pdf_error": "未选择 PDF 文件！",
+    "invalid_dpi_error": "请输入有效的 DPI 值。",
+    "select_mode_error": "请选择处理模式。",
+    "dpi_info_title": "DPI 信息",
+    "dpi_info": "DPI 值越大，PDF 图像越清晰，但文件大小也会增加。\n建议：\n- 普通使用：300 DPI\n- 高清图像：600 DPI\n- 文件较大时，尝试降低 DPI。",
+    "modes": [
+      "请选择处理模式",
+      "反转颜色",
+      "灰度化",
+      "增强对比度（黑白增强）",
+      "剪裁无内容白边",
+      "清除灰色"
+    ],
+    "selected_file": "已选择: {}",
+    "saved_file": "已保存: {}",
+    "processing_timer": "处理时间：{} 秒",
+    "processing_complete": "处理完成！"
+
+  }
